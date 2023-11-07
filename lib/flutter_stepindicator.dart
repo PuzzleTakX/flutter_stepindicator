@@ -5,6 +5,23 @@ library flutter_stepindicator;
 import 'package:flutter/material.dart';
 
 import 'animation_fade.dart';
+/// The `FlutterStepIndicator` is a widget that displays a step indicator for visualizing progress through a multi-step process. This class extends `StatefulWidget` and can be used to display and monitor various stages, such as the steps in a registration process or multiple stages in a specific task.
+
+/// Parameters:
+/// - `list`: A list of stages or steps to be displayed.
+/// - `page`: The current page number or active step.
+/// - `positiveCheck`: An optional widget for displaying a positive checkmark.
+/// - `disableAutoScroll`: A flag to enable or disable automatic scrolling.
+/// - `height`: The height of the step indicator.
+/// - `durationScroller`: The duration for scrolling animations.
+/// - `durationCheckBulb`: The duration for checkmark bulb animations.
+/// - `division`: The number of divisions for rendering steps.
+/// - `positiveColor`: The color for positive steps.
+/// - `negativeColor`: The color for negative (disabled) steps.
+/// - `progressColor`: The color for the progress indicator.
+/// - `onChange`: A callback function that triggers when the active step changes.
+
+/// The `FlutterStepIndicator` class provides a flexible way to create step indicators and customize their appearance for various use cases.
 
 class FlutterStepIndicator extends StatefulWidget {
   final List list;
