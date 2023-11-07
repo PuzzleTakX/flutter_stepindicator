@@ -105,6 +105,11 @@ division: The number of divisions for rendering steps.
 ``
 Feel free to modify and expand upon this example and description in your GitHub README to provide more context and usage instructions for your FlutterStepIndicator class.
 
+## Tags
+- Flutter
+- Step Indicator
+- Widget
+
 ## Example
 
 For a complete example of using the NavigationView package, refer to
