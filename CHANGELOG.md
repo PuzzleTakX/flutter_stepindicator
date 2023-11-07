@@ -1,4 +1,4 @@
-# FlutterStepIndicator (1.0.6)
+# FlutterStepIndicator (0.0.2)
 
 [![pub package](https://img.shields.io/pub/v/flutter_stepindicator.svg)](https://pub.dev/packages/flutter_stepindicator)
 [![pub points](https://img.shields.io/pub/points/flutter_stepindicator?color=2E8B57&label=pub%20points)](https://pub.dev/packages/flutter_stepindicator/score)
@@ -29,7 +29,11 @@
 
 ## Demo new
 
-<img src="https://github.com/PuzzleTakX/flutter_stepindicator/blob/master/demo/3.gif?raw=true" alt="image_demo" width="300" height="700">
+<img src="https://github.com/PuzzleTakX/flutter_stepindicator/blob/master/demo/1.jpg?raw=true" alt="image_demo" width="260" height="600">
+
+<img src="https://github.com/PuzzleTakX/flutter_stepindicator/blob/master/demo/2.jpg?raw=true" alt="image_demo" width="260" height="600">
+
+<img src="https://github.com/PuzzleTakX/flutter_stepindicator/blob/master/demo/3.gif?raw=true" alt="image_demo" width="260" height="600">
 
 ## Installation ☺
 

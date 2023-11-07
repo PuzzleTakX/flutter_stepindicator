@@ -1,4 +1,4 @@
-# FlutterStepIndicator (1.0.6)
+# FlutterStepIndicator (0.0.2)
 
 [![pub package](https://img.shields.io/pub/v/flutter_stepindicator.svg)](https://pub.dev/packages/flutter_stepindicator)
 [![pub points](https://img.shields.io/pub/points/flutter_stepindicator?color=2E8B57&label=pub%20points)](https://pub.dev/packages/flutter_stepindicator/score)
