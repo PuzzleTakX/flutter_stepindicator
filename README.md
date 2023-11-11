@@ -112,7 +112,7 @@ Feel free to modify and expand upon this example and description in your GitHub 
 
 ## Example
 
-For a complete example of using the NavigationView package, refer to
+For a complete example of using the FlutterStepIndicator package, refer to
 the [example](https://github.com/PuzzleTakX/flutter_stepindicator/tree/master/example) provided.
 
 ## License
@@ -122,4 +122,4 @@ file for more details.
 
 ## Credits
 
-NavigationView is developed and maintained by [puzzleTak](https://github.com/PuzzleTakX).
+FlutterStepIndicator is developed and maintained by [puzzleTak](https://github.com/PuzzleTakX).
