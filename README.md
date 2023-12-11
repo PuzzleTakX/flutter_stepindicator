@@ -1,10 +1,35 @@
-# FlutterStepIndicator (0.0.2)
+# FlutterStepIndicator (0.1.7)
 
 [![pub package](https://img.shields.io/pub/v/flutter_stepindicator.svg)](https://pub.dev/packages/flutter_stepindicator)
 [![pub points](https://img.shields.io/pub/points/flutter_stepindicator?color=2E8B57&label=pub%20points)](https://pub.dev/packages/flutter_stepindicator/score)
 
 
 **FlutterStepIndicator** is a versatile Flutter widget designed for creating step indicators to visualize multi-step processes. It offers extensive customization options and features to enhance the user experience.
+
+<img src="https://github.com/PuzzleTakX/flutter_stepindicator/blob/master/demo/4.gif?raw=true" alt="image_demo" width="260" height="600">
+
+## Features update version (0.1.7)
+
+
+1. **OnClick Functionality for Step Indicator:**
+    - Description of the onClick feature and its significance.
+
+2. **Padding for Bulbs (PaddingBubble):**
+    - Explanation of the padding added to the bulbs in the step indicator.
+
+3. **Padding for Line in Step Indicator (PaddingLine):**
+    - Details about the added padding for the line in the step indicator.
+
+4. **Automatic Scrolling Enhancement (Auto Scroller):**
+    - Explanation of improvements made to the automatic scrolling feature.
+
+5. **Customizable Item Display (Show Items):**
+    - Information on how users can customize the number of displayed items in the step indicator.
+
+6. **Bug Fix for Counter Display (Fix Bug):**
+    - Description of the bug related to the counter display and how it has been addressed.
+
+    
 
 ## Features
 

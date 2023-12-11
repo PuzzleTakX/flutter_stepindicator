@@ -1,6 +1,6 @@
 name: flutter_stepindicator
 description: FlutterStepIndicator is a versatile Flutter widget designed for creating step indicators to visualize multi-step processes.
-version: 0.0.2
+version: 0.1.7
 homepage: https://github.com/PuzzleTakX
 repository: https://github.com/PuzzleTakX/flutter_stepindicator
 
